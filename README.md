@@ -1,1 +1,1 @@
-# Creating an atomic design methodology project with React and Storybook
+# Exploring atomic design principles and particles with React and Storybook 
